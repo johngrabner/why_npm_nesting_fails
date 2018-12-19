@@ -1,0 +1,7 @@
+{
+  "name": "package_4",
+  "version": "0.0.0",
+  "dependencies": {
+    "mysql": "2.15.0"
+  }
+}

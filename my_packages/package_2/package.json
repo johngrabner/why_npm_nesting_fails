@@ -1,0 +1,9 @@
+{
+  "name": "package_2",
+  "version": "0.0.0",
+  "dependencies": {
+    "package_4": "../package_4",
+    "package_3": "../package_3"
+  }
+}
+
